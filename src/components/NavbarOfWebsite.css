@@ -1,0 +1,189 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+} 
+body{
+  font-family: 'Montserrat', sans-serif;
+} 
+header {
+    background-color: #fff;
+}
+li{
+    list-style-type: none;
+}
+li:nth-child(4){
+  padding-left: 230px;
+}
+a {
+    color: #222;
+    text-decoration: none;
+}
+.logo-img{
+    width: 100px;
+    height: 100px;
+}
+.bar{
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: white;
+}
+.navbar{
+    min-height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 50px;
+}
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    margin: auto;
+}
+.nav-branding{
+    font-size: 1.7rem;
+    font-weight:700;
+    color: #222;
+    text-decoration: underline solid #222 5px;
+}
+.nav-link{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    opacity: 0.4;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.nav-link:hover{
+    color: #8bc34a;
+    opacity: 1;
+    text-decoration: underline solid #8bc34a 3px;
+}
+.active {
+    color: #8bc34a;
+    opacity: 1;
+  }
+
+.hamburger{
+    display: none;
+    cursor: pointer;
+    background-color: #8bc34a;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.price{
+  color: #8bc34a;
+  font-size: 1.3em;
+  padding-right: 30px;
+}
+.shopping-basket{
+  color: #8bc34a;
+  font-size: 1.5em;
+}
+
+.badge{
+  border-radius: 50%;
+  padding: 5px 0px 0 0;
+  position: absolute;
+  margin: auto;
+  top: 55px;
+  background-color: red;
+  color: white;
+  font-size: .6em;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+}
+@media screen and (max-width: 1200px) {
+  li:nth-child(4){
+    padding-left: 20px;
+  }
+  .price{
+    padding-left: 20px;
+  }
+}
+@media screen and (max-width: 992px){
+  .basket{
+    padding-right: 20px;
+  }
+    li:nth-child(4){
+      padding-left: 0;
+    }
+    .navbar{
+        width: 100%;
+        padding: 10px 20px;
+        background-color: white;
+        z-index: 4;
+    }
+    .hamburger{
+        display: block;
+      }
+      .hamburger.active .bar:nth-child(2){
+        opacity: 0;;
+      }
+      .hamburger.active .bar:nth-child(1){
+        transform: translateY(8px) rotate(45deg);
+      }
+      .hamburger.active .bar:nth-child(3){
+        transform: translateY(-8px) rotate(-45deg);
+      }
+      .nav-menu{
+        position: absolute;
+        left: -100%;
+        top: 95px;
+        gap: 0;
+        flex-direction: column;
+        background-color: white;
+        width: 100%;
+        text-align: center;
+        transition: 1s;
+        z-index: 4;
+      }
+      .nav-item{
+        margin: 16px 0;
+      }
+      .nav-menu.active{
+        left: 0;
+      }
+      .badge{
+        top: 40px;
+      }
+}
+@media screen and (max-width: 480px) {
+  .price{
+    display: none;
+
+  }
+  .badge{
+    top: 35px;
+    padding: 7px 0 0 0;
+  }
+  .navbar{
+    padding: 10px;
+  }
+  .hamburger{
+    padding: 5px 8px;
+    border-radius: 5px;
+  }
+  .bar{
+    width: 20px;
+    height: 3px;
+  }
+  .navbar{
+    padding: 5px;
+  }
+  .hamburger.active .bar:nth-child(1) {
+    transform: translateY(7.5px) rotate(45deg);
+  }
+  .card{
+    font-size: 1em;
+  }
+}

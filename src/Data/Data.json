@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "img": "/img/item-1.jpg",
+        "name": "Assorted Coffee",
+        "type": "Grocery", 
+        "price": "35.00",
+        "description": "Indulge in the rich and diverse flavors of our assorted coffee collection. Crafted from the finest beans sourced from around the world, each cup offers a unique sensory experience. From the bold notes of South American blends to the smooth subtlety of African roasts, our assortment is designed to cater to every coffee enthusiast's palate. Whether you prefer a robust morning kickstart or a mellow evening brew, our assorted coffee has you covered."
+    },
+    {
+        "id": 2,
+        "img": "/img/item-2.jpg",
+        "name": "Cashew Butter",
+        "type": "Grocery",
+        "price": "30.00",
+        "description": "Experience the creamy indulgence of our high-quality cashew butter. Made from premium cashews, carefully roasted and blended to perfection, this spread is a versatile addition to your kitchen. From enhancing your morning toast to adding depth to your favorite recipes, our cashew butter brings a delicate nuttiness to every bite. Elevate your culinary creations with this luscious and wholesome delight."
+    },
+    {
+        "id": 3,
+        "img": "/img/item-3.jpg",
+        "name": "Diabetic Cookies",
+        "type": "Grocery",
+        "price": "40.00",
+        "description": "Delight in guilt-free snacking with our delicious diabetic-friendly cookies. Crafted with care, these treats are designed to satisfy your sweet tooth without compromising your health. Made from a thoughtful blend of wholesome ingredients, our cookies provide a balanced indulgence. Whether you're managing your sugar intake or simply seeking a wholesome treat, these cookies offer a delightful solution."
+    },
+    {
+        "id": 4,
+        "img": "/img/item-4.jpg",
+        "name": "Farm Fresh Eggs",
+        "type": "Grocery",
+        "price": "34.00",
+        "description": "Indulge in the goodness of locally sourced farm eggs for a wholesome breakfast delight. Our eggs are laid by well-cared-for hens raised in a natural environment, ensuring superior quality and taste. Packed with essential nutrients and protein, these eggs are the perfect foundation for a nutritious meal. From sunny-side-up mornings to decadent baking ventures, our farm-fresh eggs elevate your culinary creations."
+    },
+    {
+        "id": 5,
+        "img": "/img/item-5.jpg",
+        "name": "Fresh Orange Juice",
+        "type": "Juice",
+        "price": "18.00",
+        "description": "Savor the tangy delight of our freshly pressed orange juice. Every sip bursts with the vibrant essence of sun-ripened oranges, delivering a refreshing and invigorating experience. Packed with natural vitamin C and a symphony of flavors, this juice is the perfect companion for your mornings, afternoons, and gatherings. Quench your thirst with the zesty goodness of our premium orange juice."
+    },
+    {
+        "id": 6,
+        "img": "/img/item-6.jpg",
+        "name": "Fresh Apple Juice",
+        "type": "Juice",
+        "price": "16.00",
+        "description": "Experience the crisp and refreshing taste of our freshly squeezed apple juice. Crafted from a medley of the finest apple varieties, this juice encapsulates the essence of orchard-fresh goodness. With each sip, you'll enjoy the natural sweetness and invigorating aroma of apples in their prime. Whether you're seeking a healthy dose of hydration or a delightful complement to your meals, our apple juice delivers."
+    },
+    {
+        "id": 7,
+        "img": "/img/item-7.jpg",
+        "name": "Turmeric Powder",
+        "type": "Grocery",
+        "price": "6.50",
+        "description": "Turmeric powder, known as Haldi powder, is used extensively for its rich yellow color. Not just coloring a food, but it is also used to add a flavor. It is used in savory foods and has a strong aroma. It comes with great medicinal value as well. It is a must-have ingredient in Indian cuisine."
+    },
+    {
+        "id": 8,
+        "img": "/img/item-8.jpg",
+        "name": "White Pepper Powder",
+        "type": "Grocery",
+        "price": "8.00",
+        "description": "White pepper powder is made from seeds of the pepper berry. The seeds are dried and then crushed into a powder and hence, have a mild flavor. It has a peppery, spicy taste to it. It is most wildly used in the Chinese cuisine, among other Asian cuisines."
+    },
+    {
+        "id": 9,
+        "img": "/img/item-9.jpg",
+        "name": "Pineapple Juice",
+        "type": "Juice",
+        "price": "27.20",
+        "description": "Pineapple juice is a juice made from pressing the natural liquid out from the pulp of the pineapple (a fruit from a tropical plant). Numerous pineapple varieties may be used to manufacture commercial pineapple juice, the most common of which are Smooth Cayenne, Red Spanish, Queen, and Abacaxi."
+    },
+    {
+        "id": 10,
+        "img": "/img/item-10.jpg",
+        "name": "Organic Jaggery Whole",
+        "type": "Grocery",
+        "price": "34.00",
+        "description": "Organic Jaggery Whole: Jaggery or Gur is an unrefined sugar product widely manufactured and consumed in Asia and Africa. It is a yellow brick-like product with many medicinal benefits.Its high iron content helps prevent anemia. It is an excellent source of minerals that help boost your immune system. It can be used as a replacement for sugar in Indian desserts, cakes, beverages, candies, and more."
+    },
+    {
+        "id": 11,
+        "img": "/img/item-11.jpg",
+        "name": "Cranberry Juice",
+        "type": "Juice",
+        "price": "5.00",
+        "description": "Fruitiful cranberry juice blend is a refreshing apple, grape, cranberry and pear juice blend, made from concentrate. Its sweet and slightly tart taste make it a really delicious drink. Can be enjoyed by itself or used as a base for party cocktails. Also an excellent source of vitamin C: one 250 ml serving provides 100% of the recommended daily amount of vitamin C."
+    },
+    {
+        "id": 12,
+        "img": "/img/item-12.webp",
+        "name": "Fresh Pomegranate Juice",
+        "type": "Juice",
+        "price": "13.75",
+        "description": "It has rounded fruit with a dry outer covering (husk) made up of two layers: a hard-outer layer called an epicarp, a soft inner layer called a mesocarp. The inner mesocarp has distinct chambers that contain fleshy seeds."
+    },
+    {
+        "id": 13,
+        "img": "/img/item-13.jpg",
+        "name": "Black Eye Peas",
+        "type": "Grocery",
+        "price": "15.00",
+        "description": "Organic Black Eyed Peas or black-eyed beans are medium-sized legumes. They are pale white with a black spot on the side. They are widely eaten in Asian, African, and South-American households.Black-eyed peas’ benefits are abundant; they are rich in protein, calcium, and iron. Furthermore, promote weight loss and maintain heart health. You can make English baked beans, bean curry, or bean salad using our organic black-eyed peas."
+    },
+    {
+        "id": 14,
+        "img": "/img/item-14.jpg",
+        "name": "Castor Oil",
+        "type": "Grocery",
+        "price": "15.50",
+        "description": "Castor Oil is a multi-purpose vegetable oil derived from castor beans. It possesses many medicinal properties. It is widely used for massages, home remedies, cooking, skincare, and more. It is naturally antiviral and antibacterial which is great for the skin. It also helps in bowel movements and keeping the gut light.You can use it for tempering daals, soups, khichdi and more."
+    },
+    {
+        "id": 15,
+        "img": "/img/item-15.webp",
+        "name": "Fresh Lemon Juice",
+        "type": "Juice",
+        "price": "32.80",
+        "description": "The juice of the lemon is about 5% to 6% citric acid, with a pH of around 2.2, giving it a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie."
+    },
+    {
+        "id": 16,
+        "img": "/img/item-16.jpg",
+        "name": "Black Pepper Whole",
+        "type": "Grocery",
+        "price": "8.00",
+        "description": "Black Pepper comes from the dried, immature berries of Piper Nigrum. Black pepper is a flowering vine cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. The brown to black, deep-set wrinkled berries have a characteristic odor, and a hot, pungent taste."
+    },
+    {
+        "id": 17,
+        "img": "/img/item-17.webp",
+        "name": "Fresh Lime Juice",
+        "type": "Juice",
+        "price": "33.00",
+        "description": "The pale green flesh of the lime is firm, pulpy and juicy, much like a lemon, but harder. The juice is squeezed from the flesh and is a pale green color with a sour and refreshing taste and is used in drinks and food items, including sauces."
+    },
+    {
+        "id": 18,
+        "img": "/img/item-18.jpg",
+        "name": "Chili Powder",
+        "type": "Grocery",
+        "price": "9.90",
+        "description": "Chili Powder is the dried version of Chili Pepper. It not only adds quintessential red color to dishes but also adds a sharp, spicy flavor to recipes. "
+    },
+    {
+        "id": 19,
+        "img": "/img/item-19.jpg",
+        "name": "Coconut Oil",
+        "type": "Grocery",
+        "price": "15.00",
+        "description": "Coconut Oil is a vegetable oil derived from the flesh of a coconut. It is mostly used in South-East Asian cuisines for frying, tempering, or as a garnish. Its distinct flavor gives a tropical aroma and flavor to food. It is high in saturated fat that is highly beneficial for the body to burn fat. It also known to promote hair growth."
+    },
+    {
+        "id": 20,
+        "img": "/img/item-20.jpg",
+        "name": "Groundnut Oil",
+        "type": "Grocery",
+        "price": "9.90",
+        "description": "Groundnut Oil is a vegetable oil derived from peanuts. Naturally, it has a strong peanut-like flavor and aroma. Preferably used in Asian cuisines because of its nutty flavor and is rich in omega-3 and omega-6 unstaurated fats.It tastes great in all kinds of cuisines like Indian, Chinese, Mexican, Continental, and more. Groundnut Oil can be used to make Aloo Fry, Fried Idlies, Dal Tadka, and more."
+    },
+    {
+        "id": 21,
+        "img": "/img/item-21.webp",
+        "name": "Fresh Carrot Juice",
+        "type": "Juice",
+        "price": "27.00",
+        "description": "Carrot juice has a uniquely sweet flavour of concentrated carrots. Unlike many juices, it is opaque. It is often consumed as a health drink. Carrots have been made into soups and juices for hundreds of years."
+    }
+]
